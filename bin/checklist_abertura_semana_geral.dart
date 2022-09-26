@@ -47,7 +47,7 @@ void main(List<String> arguments) {
       }
 
       print('''
-<CHECKLIST ABERTURA DA SEMANA> GERAL
+CHECKLIST ABERTURA DA SEMANA GERAL
 Instância: $dataInicialFormatada
 
 -----------------------------------------------------------------------------

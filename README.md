@@ -27,4 +27,3 @@ Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
 *checklist_abertura_semana_geral.dart v.0.1.20220925
 www.startdevstudio.com
 
-
