@@ -5,8 +5,8 @@ para uma data informada (segunda-feira).
 PROGRAMA: checklist_abertura_semana_geral.dart - v.0.1
 PROGRAMADOR: Edilson Vilarinho
 DATA: 25/09/2022
-MANUTENÇÃO: 
-  Incluir: modified: README.md
+MANUTENÇÃO: 26/09/2022
+  Incluir: atualizaçao releasePrograma 
 ----------------------------------
 
 "Vamos ser referência juntos no Flutter, no Brasil e no Mundo"
@@ -18,7 +18,7 @@ import 'dart:io';
 import '/media/edilson/Dados1/_Edilson/Projetos/Estudo_Dart/Edilson_Vilarinho/funcoes/formataData.dart';
 
 // *** atualizar release do programa
-String releasePrograma = "*checklist_abertura_semana_geral.dart v.0.1.20220925";
+String releasePrograma = "*checklist_abertura_semana_geral.dart v.0.1.20220926";
 
 void main(List<String> arguments) {
   print('Digite a data da segunda-feira (AAAA-MM-DD):');
