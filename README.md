@@ -1,4 +1,4 @@
-<CHECKLIST ABERTURA DA SEMANA> GERAL
+CHECKLIST ABERTURA DA SEMANA GERAL
 Instância: 26/09/2022
 
 -----------------------------------------------------------------------------
