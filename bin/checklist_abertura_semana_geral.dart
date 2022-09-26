@@ -6,7 +6,7 @@ PROGRAMA: checklist_abertura_semana_geral.dart - v.0.1
 PROGRAMADOR: Edilson Vilarinho
 DATA: 25/09/2022
 MANUTENÇÃO: 
-  Incluir: 
+  Incluir: modified: README.md
 ----------------------------------
 
 "Vamos ser referência juntos no Flutter, no Brasil e no Mundo"
@@ -47,35 +47,34 @@ void main(List<String> arguments) {
       }
 
       print('''
-          <CHECKLIST ABERTURA DA SEMANA> GERAL
-          Instância: $dataInicialFormatada
+<CHECKLIST ABERTURA DA SEMANA> GERAL
+Instância: $dataInicialFormatada
 
-          -----------------------------------------------------------------------------
-          TODAS AS  SEGUNDA-FEIRA ASSIM QUE LIGAR O NOTEBOOK ACER ASPIRE E5-473-5896
-          - [ ] DATA: ${dataStr.substring(0, 10)}
-          -----------------------------------------------------------------------------
-          SIMPLENOTE (ONLINE)
-          - [ ] backup do Simplenote ed.vilarinho@gmail.com - notes_${dataStr.substring(0, 4)}-$mes2digitos-$dia2digitos-HH-MM.zip
-                para edilson/Download/SIMPLENOTE (NOTEBBOK ACER ASPIRE E5-473-5896)
-          - [ ] google drive edjcv.messias/SIMPLENOTE
-          - [ ] upload gitlab.com
-          - [ ] conferir atualização no gitlab
-          - [ ] acer red pelo github
-          -----------------------------------------------------------------------------
-          BLOCO DE NOTAS (LOCAL: NOTEBBOK ACER ASPIRE E5-473-5896 - edilson/BK_Bloco de notas)
+-----------------------------------------------------------------------------
+TODAS AS  SEGUNDA-FEIRA ASSIM QUE LIGAR O NOTEBOOK ACER ASPIRE E5-473-5896
+- [ ] DATA: ${dataStr.substring(0, 10)}
+-----------------------------------------------------------------------------
+SIMPLENOTE (ONLINE)
+- [ ] backup do Simplenote ed.vilarinho@gmail.com - notes_${dataStr.substring(0, 4)}-$mes2digitos-$dia2digitos-HH-MM.zip
+      para edilson/Download/SIMPLENOTE (NOTEBBOK ACER ASPIRE E5-473-5896)
+- [ ] google drive edjcv.messias/SIMPLENOTE
+- [ ] upload gitlab.com
+- [ ] conferir atualização no gitlab
+- [ ] acer red pelo github
+-----------------------------------------------------------------------------
+BLOCO DE NOTAS (LOCAL: NOTEBBOK ACER ASPIRE E5-473-5896 - edilson/BK_Bloco de notas)
 
-          enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
-          - [ ] BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior) 
-          - [ ] sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior)
-          - [ ] upload gitlab.com
-          - [ ] conferir atualização no gitlab
-          - [ ] acer red pelo github
-          -----------------------------------------------------------------------------
-          - [ ] abrir o BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAno.txt (nova semana)
-          - [ ] abrir o sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAno.txt (nova semana)
-          -----------------------------------------------------------------------------
-          $releasePrograma
-          www.startdevstudio.com
+Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
+- [ ] BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior) 
+- [ ] sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior)
+- [ ] conferir atualização no gitlab
+- [ ] acer red pelo github
+-----------------------------------------------------------------------------
+- [ ] abrir o BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAno.txt (nova semana)
+- [ ] abrir o sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAno.txt (nova semana)
+-----------------------------------------------------------------------------
+$releasePrograma
+www.startdevstudio.com
         ''');
     } else {
       print(
