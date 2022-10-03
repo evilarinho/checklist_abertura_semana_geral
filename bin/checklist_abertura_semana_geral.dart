@@ -5,8 +5,8 @@ para uma data informada (segunda-feira).
 PROGRAMA: checklist_abertura_semana_geral.dart - v.0.1
 PROGRAMADOR: Edilson Vilarinho
 DATA: 25/09/2022
-MANUTENÇÃO: 26/09/2022
-  Incluir: atualizaçao releasePrograma 
+MANUTENÇÃO: 03/10/2022
+  Incluir:  upload gitlab.com para BLOCO DE NOTAS  
 ----------------------------------
 
 "Vamos ser referência juntos no Flutter, no Brasil e no Mundo"
@@ -18,7 +18,7 @@ import 'dart:io';
 import '/media/edilson/Dados1/_Edilson/Projetos/Estudo_Dart/Edilson_Vilarinho/funcoes/formataData.dart';
 
 // *** atualizar release do programa
-String releasePrograma = "*checklist_abertura_semana_geral.dart v.0.1.20220926";
+String releasePrograma = "*checklist_abertura_semana_geral.dart v.0.1.20221003";
 
 void main(List<String> arguments) {
   print('Digite a data da segunda-feira (AAAA-MM-DD):');
@@ -65,8 +65,9 @@ SIMPLENOTE (ONLINE)
 BLOCO DE NOTAS (LOCAL: NOTEBBOK ACER ASPIRE E5-473-5896 - edilson/BK_Bloco de notas)
 
 Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
-- [ ] BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior) 
-- [ ] sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior)
+  - [ ] BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior) 
+  - [ ] sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAnteriorStr.txt (semana anterior)
+- [ ] upload gitlab.com
 - [ ] conferir atualização no gitlab
 - [ ] acer red pelo github
 -----------------------------------------------------------------------------
