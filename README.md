@@ -1,12 +1,12 @@
 CHECKLIST ABERTURA DA SEMANA GERAL
-Instância: 03/10/2022
+Instância: 24/10/2022
 
 -----------------------------------------------------------------------------
 TODAS AS  SEGUNDA-FEIRA ASSIM QUE LIGAR O NOTEBOOK ACER ASPIRE E5-473-5896
-- [ ] DATA: 2022-10-03
+- [ ] DATA: 2022-10-24
 -----------------------------------------------------------------------------
 SIMPLENOTE (ONLINE)
-- [ ] backup do Simplenote ed.vilarinho@gmail.com - notes_2022-10-03-HH-MM.zip
+- [ ] backup do Simplenote ed.vilarinho@gmail.com - notes_2022-10-24-HH-MM.zip
       para edilson/Download/SIMPLENOTE (NOTEBBOK ACER ASPIRE E5-473-5896)
 - [ ] google drive edjcv.messias/SIMPLENOTE
 - [ ] upload gitlab.com
@@ -16,14 +16,16 @@ SIMPLENOTE (ONLINE)
 BLOCO DE NOTAS (LOCAL: NOTEBBOK ACER ASPIRE E5-473-5896 - edilson/BK_Bloco de notas)
 
 Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
-  - [ ] BN_2022_SE_39.txt (semana anterior) 
-  - [ ] sdstudio_2022_SE_39.txt (semana anterior)
+  - [ ] BN_2022_SE_42.txt (semana anterior) 
+  - [ ] sdstudio_2022_SE_42.txt (semana anterior)
 - [ ] upload gitlab.com
 - [ ] conferir atualização no gitlab
 - [ ] acer red pelo github
 -----------------------------------------------------------------------------
-- [ ] abrir o BN_2022_SE_40.txt (nova semana)
-- [ ] abrir o sdstudio_2022_SE_40.txt (nova semana)
+- [ ] abrir o BN_2022_SE_43.txt (nova semana)
+- [ ] abrir o sdstudio_2022_SE_43.txt (nova semana)
 -----------------------------------------------------------------------------
-*checklist_abertura_semana_geral.dart v.0.1.20221003
+*checklist_abertura_semana_geral.dart v.0.1.20221024
 www.startdevstudio.com
+---------------------------------
+Criar a nota Simplenote: FAZER NA SEMANA() No.43/2022
