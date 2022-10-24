@@ -78,7 +78,7 @@ Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
 $releasePrograma
 www.startdevstudio.com
 ---------------------------------
-Criar a nota Simplenote: FAZER NA SEMANA() No.$numeroSemanaAno/${dataStr.substring(0, 4)}
+- [ ] Criar a nota Simplenote: FAZER NA SEMANA() No.$numeroSemanaAno/${dataStr.substring(0, 4)}
 
         ''');
     } else {

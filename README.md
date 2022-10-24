@@ -28,4 +28,4 @@ Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
 *checklist_abertura_semana_geral.dart v.0.1.20221024
 www.startdevstudio.com
 ---------------------------------
-Criar a nota Simplenote: FAZER NA SEMANA() No.43/2022
+- [ ] Criar a nota Simplenote: FAZER NA SEMANA() No.43/2022
