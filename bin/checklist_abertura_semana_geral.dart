@@ -5,8 +5,8 @@ para uma data informada (segunda-feira).
 PROGRAMA: checklist_abertura_semana_geral.dart - v.0.1
 PROGRAMADOR: Edilson Vilarinho
 DATA: 25/09/2022
-MANUTENÇÃO: 24/10/2022
-  Incluir:  Criar a nota Simplenote: FAZER NA SEMANA() No.99/AAAA
+MANUTENÇÃO: 31/10/2022
+  Incluir:  Reposicionar a nota Simplenote: FAZER NA SEMANA() No.99/AAAA
   Atualizar: README.md
 ----------------------------------
 
@@ -19,7 +19,7 @@ import 'dart:io';
 import '/media/edilson/Dados1/_Edilson/Projetos/Estudo_Dart/Edilson_Vilarinho/funcoes/formataData.dart';
 
 // *** atualizar release do programa
-String releasePrograma = "*checklist_abertura_semana_geral.dart v.0.1.20221024";
+String releasePrograma = "*checklist_abertura_semana_geral.dart v.0.1.20221031";
 
 void main(List<String> arguments) {
   print('Digite a data da segunda-feira (AAAA-MM-DD):');
@@ -74,12 +74,12 @@ Enviar google drive edjcv.messias /BK_BLOCO DE NOTAS
 -----------------------------------------------------------------------------
 - [ ] abrir o BN_${dataStr.substring(0, 4)}_SE_$numeroSemanaAno.txt (nova semana)
 - [ ] abrir o sdstudio_${dataStr.substring(0, 4)}_SE_$numeroSemanaAno.txt (nova semana)
+
+- [ ] Criar a nota Simplenote: FAZER NA SEMANA() No.$numeroSemanaAno/${dataStr.substring(0, 4)}
 -----------------------------------------------------------------------------
 $releasePrograma
 www.startdevstudio.com
 ---------------------------------
-- [ ] Criar a nota Simplenote: FAZER NA SEMANA() No.$numeroSemanaAno/${dataStr.substring(0, 4)}
-
         ''');
     } else {
       print(
